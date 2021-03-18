@@ -1,0 +1,10 @@
+C:\Users\Светлана\source\repos\picture\picture\bin\Debug\picture.exe.config
+C:\Users\Светлана\source\repos\picture\picture\bin\Debug\picture.exe
+C:\Users\Светлана\source\repos\picture\picture\bin\Debug\picture.pdb
+C:\Users\Светлана\source\repos\picture\picture\obj\Debug\picture.csprojAssemblyReference.cache
+C:\Users\Светлана\source\repos\picture\picture\obj\Debug\picture.Form1.resources
+C:\Users\Светлана\source\repos\picture\picture\obj\Debug\picture.Properties.Resources.resources
+C:\Users\Светлана\source\repos\picture\picture\obj\Debug\picture.csproj.GenerateResource.cache
+C:\Users\Светлана\source\repos\picture\picture\obj\Debug\picture.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\source\repos\picture\picture\obj\Debug\picture.exe
+C:\Users\Светлана\source\repos\picture\picture\obj\Debug\picture.pdb
